@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Canales Locales</title>
+<link>ignorame</link>
+<externallink>https://raw.githubusercontent.com/canegron/Sunlight/master/Canales/locales.m3u</externallink>
+<thumbnail>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/Canales-Locales.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Deportes</title>
+<link>ignorame</link>
+<externallink>https://raw.githubusercontent.com/canegron/Sunlight/master/Canales/deportes.m3u</externallink>
+<thumbnail>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/Sports.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Infantiles</title>
+<link>ignorame</link>
+<externallink>https://raw.githubusercontent.com/canegron/Sunlight/master/Canales/infantiles.m3u</externallink>
+<thumbnail>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/Cartoons.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/fanart.jpg</fanart>
+</item>
