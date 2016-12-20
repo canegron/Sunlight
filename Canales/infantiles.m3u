@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/Cartoon-Network.png", Cartoon Network
+http://premium.exabytetv.info/HLSST/421/421-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/Nickelodeon.png", Nickelodeon
+http://premium.exabytetv.info/HLSST/1423/1423-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/Discovery-Kids.png", Discovery Kids
+http://premium.exabytetv.info/HLSST/309/309-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/Disney-Channel.png", Disney Channel
+http://premium.exabytetv.info/HLSST/256/256-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/Disney-XD.png", Disney XD
+http://premium.exabytetv.info/HLSST/499/499-MOKAR-1011000011101110001000001000110-ExabyteTV.m3u8
