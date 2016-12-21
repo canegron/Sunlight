@@ -23,3 +23,11 @@
 <thumbnail>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/Cartoons.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/fanart.jpg</fanart>
 </item>
+
+<item>
+<title>Entretenimiento</title>
+<link>ignorame</link>
+<externallink>https://raw.githubusercontent.com/canegron/Sunlight/master/Canales/entretenimiento.m3u</externallink>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/fanart.jpg</fanart>
+</item>
