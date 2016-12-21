@@ -8,3 +8,9 @@ http://premium.exabytetv.info/HLSST/1003/1003-HWXTK-1011000101010000011111011110
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/NHL.png", NHL Network
 http://premium.exabytetv.info/HLSST/194/194-HWXTK-1011000101010000011111011110111-ExabyteTV.m3u8
+
+#EXTINF:-1, NBA (TS)
+http://live.softiptv.com:9900/live/525/525/17381.m3u8
+
+#EXTINF:-1, NBA (HLS)
+http://live.softiptv.com:9900/live/525/525/17381.m3u8
