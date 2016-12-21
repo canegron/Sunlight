@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>Television en Vivo</title>
+<title>Televisión en Vivo</title>
 <link>ignorame</link>
 <externallink>https://raw.githubusercontent.com/canegron/Sunlight/master/Menu/canales.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/livetv.png</thumbnail>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>Peliculas HD</title>
+<title>Películas HD</title>
 <link>ignorame</link>
 <externallink>https://raw.githubusercontent.com/canegron/Sunlight/master/Menu/peliculas.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/Popcorn.png</thumbnail>
@@ -25,9 +25,17 @@
 </item>
 
 <item>
-<title>[B][COLOR yellow]Si te gusto el Add-On, puedes donar via Paypal a: canegron92@yahoo.com[/COLOR][/B]</title>
+<title>[B][COLOR yellow]Si te gustó el Add-On, puedes donar vía Paypal a: canegron92@yahoo.com[/COLOR][/B]</title>
 <link>ignorame</link>
 <externallink>ignorame</externallink>
 <thumbnail>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/iCarlitOuz.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/canegron/Sunlight/master/Images/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>Univisión HD</title>
+<link>ignorame</link>
+<externallink>http://premium.exabytetv.info/HLSST/13493/13493-JLGIS-1011000011111100111100000111110-ExabyteTV.m3u8</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
