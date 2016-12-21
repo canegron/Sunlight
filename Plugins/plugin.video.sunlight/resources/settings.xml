@@ -1,8 +1,8 @@
 <settings>
   <category label="General">
 
-        <setting type="lsep" label="                                                     Actualización 29/06/2016" option="close" action="RunPlugin(plugin://plugin.video.live.streamspro/?mode=7)" />
-        <setting type="lsep" label="                                                  [COLOR white][B]Intrcomp Media y Kodi Puerto Rico[/B][/COLOR]" option="close" action="RunPlugin(plugin://plugin.video.live.streamspro/?mode=7)" />
+        <setting type="lsep" label="Version 1.0.0" option="close" action="RunPlugin(plugin://plugin.video.live.streamspro/?mode=7)" />
+        <setting type="lsep" label="iCarlitOuz" option="close" action="RunPlugin(plugin://plugin.video.live.streamspro/?mode=7)" />
         
   
 	    <setting id="Updatecommonresolvers" label="Update Commonresolver from Genesis" type="bool" default="true" visible="false"/>
@@ -24,13 +24,4 @@
     <setting type="action" label="Add Community File URL as Source" option="close" action="Container.Update(plugin://plugin.video.live.streamspro/?mode=10)" visible="false"/>
   
   </category>
-    
-	
-<category label="[COLOR red]Control Parental [/COLOR]">
-    <setting id="parentalblockedpin" label="Parental Block Pin" type="text"  option="hidden"  enable="true" default="1234"/>
-    <setting id="parentalblocked" label="Is Parental Blocked Applied?" type="bool" default="true" enable="true" visible="false"/>
-</category>
-
-	
-	
 </settings>
