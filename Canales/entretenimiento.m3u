@@ -1,5 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/TLC.png", TLC
-http://premium.exabytetv.info/HLSST/327/327-HWXTK-1011000101010000011111011110111-ExabyteTV.m3u8
+http://premium.exabytetv.info/HLSST/503/503-JLGIS-1011000011111100111100000111110-ExabyteTV.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/DIY.png", DIY Network
+http://premium.exabytetv.info/HLSST/174/174-JLGIS-1011000011111100111100000111110-ExabyteTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/HGTV.png", HGTV
+http://premium.exabytetv.info/HLSST/7501/7501-JLGIS-1011000011111100111100000111110-ExabyteTV.m3u8
