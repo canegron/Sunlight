@@ -14,6 +14,3 @@ http://premium.exabytetv.info/HLSST/13489/13489-JLGIS-10110000111111001111000001
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/canegron/Sunlight/master/Images/logos/BoxNation.png", BoxNation
 http://premium.exabytetv.info/gc/JLGIS-1011000011111100111100000111110-ExabyteTV/1572/exabytetv.m3u8
-
-#EXTINF:-1 , ESPN HD
-plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/siraj/siraj/27354.ts&amp;streamtype=TSDOWNLOADER
