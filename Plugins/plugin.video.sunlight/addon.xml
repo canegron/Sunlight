@@ -22,7 +22,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>El mejor Add-On de Kodi en Puerto Rico.</summary>
+    <summary>Television en vivo, Peliculas, Series y mas.</summary>
     <description>Aqui podras ver Television en vivo, Peliculas, Series, entre otras cosas.
  </description>
     <platform>all</platform>
